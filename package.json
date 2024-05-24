@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/analytics-events",
-  "description": "Uniswap analytics events",
+  "name": "swifydex-analytics-events",
+  "description": "SwifyDex analytics events",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
